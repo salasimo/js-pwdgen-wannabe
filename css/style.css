@@ -1,0 +1,21 @@
+#pw{
+    text-align: center;
+    font-size: 24px;
+    background-color: lightgreen;
+
+
+}
+
+div#container{
+    display:none;
+}
+
+div#container.visibile{
+    display: block;
+}
+
+.smile{
+    font-size:34px;
+    display: block;
+    text-align: center;
+}
